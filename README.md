@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praveenraj V</h1>
 <h3 align="center">Aspiring software developer</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4VbyIVx8yQR_oGiJpx_tXrU3-96gGkmlMA&s">
+<img align="right" alt="Coding" width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4VbyIVx8yQR_oGiJpx_tXrU3-96gGkmlMA&s">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenrajv22&label=Profile%20views&color=0e75b6&style=flat" alt="praveenrajv22" /> </p>
